@@ -14,7 +14,6 @@ const CardList = (props) =>(
       {props.profiles.map(profile => <Card key = {profile.id} {...profile}/>)}
     </div>
 )
- 
 
 class Form extends React.Component{
   state = {userName : ''}
