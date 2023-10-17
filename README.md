@@ -2,7 +2,8 @@
 GitHub Profiles with Vite and React is a simple web application that allows you to search for GitHub user profiles and display their information using the GitHub API.
 
 ## Demo
- You can see a live demo of this application [here](https://githubprofiles9807.netlify.app).
+You can see a live demo of this application [here](https://githubprofiles9807.netlify.app){:target="_blank"}.
+
 
 ## Features
 - Fetch and display GitHub user profiles by entering a username.
