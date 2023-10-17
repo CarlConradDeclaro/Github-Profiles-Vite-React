@@ -9,6 +9,6 @@ You can see a live demo of this application <a href="https://githubprofiles9807.
 ## Features
 - Fetch and display GitHub user profiles by entering a username.
 - Display user details such as avatar, username, and others.
-- View the user's repositories with links to their GitHub pages.
+- View the number of user's repositories to their GitHub pages.
 
 ![screenshot](https://github.com/CarlConradDeclaro/Github-Profiles-Vite-React/assets/110441309/21c445c3-88e8-4389-811c-066297324da3)
