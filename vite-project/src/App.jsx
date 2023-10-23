@@ -5,8 +5,7 @@ import './style.css';
 const dataSet= [
    {avatar_url :  "https://avatars.githubusercontent.com/u/116258847?v=4", name : "ShinjiCodeEVA" , id :" 116258847" ,  followers: "13",following: "5", public_repos: "37"},
    {avatar_url :  "https://avatars.githubusercontent.com/u/113151776?v=4", name : "	Leander Lubguban" , id :" 113151776", followers: "12", following: "18", public_repos: "15"},
-   {avatar_url :  "https://avatars.githubusercontent.com/u/133208566?v=4", name : "EvanBatac" , id :" 133208566", followers: "2" , following: "4", public_repos: "4"},
-  
+   {avatar_url :  "https://avatars.githubusercontent.com/u/133208566?v=4", name : "EvanBatac" , id :" 133208566", followers: "2" , following: "4", public_repos: "4"},  
 ]; 
 
 const CardList = (props) =>(
